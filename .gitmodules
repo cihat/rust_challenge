@@ -1,0 +1,6 @@
+[submodule "fork_projects/swc"]
+	path = fork_projects/swc
+	url = git@github.com:swc-project/swc.git
+[submodule "fork_projects/git-cliff"]
+	path = fork_projects/git-cliff
+	url = git@github.com:cihat/git-cliff.git

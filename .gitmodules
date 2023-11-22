@@ -4,3 +4,6 @@
 [submodule "fork_projects/git-cliff"]
 	path = fork_projects/git-cliff
 	url = git@github.com:cihat/git-cliff.git
+[submodule "fork_projects/fd"]
+	path = fork_projects/fd
+	url = git@github.com:sharkdp/fd.git

@@ -3,7 +3,7 @@ fn another_function() {
 }
 
 fn main() {
-  println!("Hello, world!");
+    println!("Hello, world!");
 
   another_function();
   print_labeled_measurement(5, 'A');

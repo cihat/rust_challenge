@@ -13,3 +13,6 @@
 [submodule "fork_projects/rustlings"]
 	path = fork_projects/rustlings
 	url = https://github.com/rust-lang/rustlings
+[submodule "fork_projects/Rocket"]
+	path = fork_projects/Rocket
+	url = https://github.com/rwf2/Rocket

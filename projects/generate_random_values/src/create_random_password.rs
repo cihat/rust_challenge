@@ -1,7 +1,6 @@
 use rand::Rng;
 
 pub fn create_random_password() {
-  use rand::Rng;
   const CHARTSET: &[u8] = b"ABCDEFGHIJKLMNOPQRSTUVWXYZ\
                           abcdefghijklmnopqrstuvwxyz\
                           0123456789)(*&^%$#@!~";

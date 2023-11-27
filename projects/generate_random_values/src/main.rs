@@ -2,13 +2,15 @@ use rand::Rng;
 use rand::distributions::{Distribution, Uniform};
 #[path = "./with_custom_type.rs"] mod with_custom_type;
 #[path = "./create_random_password.rs"] mod custom_type;
+#[path = "./with_alphanumeric_characters.rs"] mod with_alphanumeric_characters;
 
 fn main() {
   // generate_random_numbers();
 
   // generate_random_number_within_range();
-  with_custom_type::with_custom_type();
-  custom_type::create_random_password();
+  // with_custom_type::with_custom_type();
+  // custom_type::create_random_password();
+  with_alphanumeric_characters::alphanumeric();
 }
 
 fn generate_random_numbers() {

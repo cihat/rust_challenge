@@ -7,3 +7,9 @@
 [submodule "fork_projects/fd"]
 	path = fork_projects/fd
 	url = git@github.com:sharkdp/fd.git
+[submodule "fork_projects/"]
+  path = fork_projects/rustlings
+  url = git@github.com:rust-lang/rustlings.git
+[submodule "fork_projects/rustlings"]
+	path = fork_projects/rustlings
+	url = https://github.com/rust-lang/rustlings

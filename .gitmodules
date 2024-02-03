@@ -16,9 +16,6 @@
 [submodule "fork_projects/Rocket"]
 	path = fork_projects/Rocket
 	url = https://github.com/rwf2/Rocket
-[submodule "rustlings"]
-	path = rustlings
-	url = git@github.com:rust-lang/rustlings.git
 [submodule "fork_projects/dimooper"]
 	path = fork_projects/dimooper
 	url = git@github.com:tsoding/dimooper.git

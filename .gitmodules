@@ -22,3 +22,6 @@
 [submodule "fork_projects/battleship-rs"]
 	path = fork_projects/battleship-rs
 	url = git@github.com:orhun/battleship-rs.git
+[submodule "easy-rust"]
+	path = easy-rust
+	url = git@github.com:Null-Stack-Developers/easy_rust.git

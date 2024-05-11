@@ -1,0 +1,1 @@
+/Users/cihatsalik/github/source/rust_challenge/rust_book_cs_brown_edu/generic_types/target/debug/generic_types: /Users/cihatsalik/github/source/rust_challenge/rust_book_cs_brown_edu/generic_types/src/aggregator.rs /Users/cihatsalik/github/source/rust_challenge/rust_book_cs_brown_edu/generic_types/src/main.rs

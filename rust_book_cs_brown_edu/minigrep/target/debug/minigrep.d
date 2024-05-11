@@ -1,0 +1,1 @@
+/Users/cihatsalik/github/source/rust_challenge/rust_book_cs_brown_edu/minigrep/target/debug/minigrep: /Users/cihatsalik/github/source/rust_challenge/rust_book_cs_brown_edu/minigrep/src/lib.rs /Users/cihatsalik/github/source/rust_challenge/rust_book_cs_brown_edu/minigrep/src/main.rs

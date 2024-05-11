@@ -1,0 +1,1 @@
+/Users/cihatsalik/github/source/rust_challenge/rust_book_cs_brown_edu/common-collections/target/debug/common-collections: /Users/cihatsalik/github/source/rust_challenge/rust_book_cs_brown_edu/common-collections/src/main.rs

@@ -1,0 +1,1 @@
+/Users/cihatsalik/github/source/rust_challenge/projects/sorting_vectors/target/debug/sorting_vectors: /Users/cihatsalik/github/source/rust_challenge/projects/sorting_vectors/src/main.rs /Users/cihatsalik/github/source/rust_challenge/projects/sorting_vectors/src/sort_of_structs.rs

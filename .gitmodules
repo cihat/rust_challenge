@@ -1,27 +1,40 @@
 [submodule "fork_projects/swc"]
 	path = fork_projects/swc
 	url = git@github.com:swc-project/swc.git
+  ignore = dirty
 [submodule "fork_projects/git-cliff"]
 	path = fork_projects/git-cliff
 	url = git@github.com:cihat/git-cliff.git
+  ignore = dirty
 [submodule "fork_projects/fd"]
 	path = fork_projects/fd
 	url = git@github.com:sharkdp/fd.git
+  ignore = dirty
 [submodule "fork_projects/"]
   path = fork_projects/rustlings
   url = git@github.com:rust-lang/rustlings.git
+  ignore = dirty
 [submodule "fork_projects/rustlings"]
 	path = fork_projects/rustlings
 	url = https://github.com/rust-lang/rustlings
+  ignore = dirty
 [submodule "fork_projects/Rocket"]
 	path = fork_projects/Rocket
 	url = https://github.com/rwf2/Rocket
+  ignore = dirty
 [submodule "fork_projects/dimooper"]
 	path = fork_projects/dimooper
 	url = git@github.com:tsoding/dimooper.git
+  ignore = dirty
 [submodule "fork_projects/battleship-rs"]
 	path = fork_projects/battleship-rs
 	url = git@github.com:orhun/battleship-rs.git
+  ignore = dirty
 [submodule "easy-rust"]
 	path = easy-rust
 	url = git@github.com:Null-Stack-Developers/easy_rust.git
+  ignore = dirty
+[submodule "TheAlgorithmsRust"]
+  path = TheAlgorithmsRust
+  url = git@github.com:cihat/rust_challenge.git
+  ignore = dirty

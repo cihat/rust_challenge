@@ -1,0 +1,1 @@
+/Users/cihatsalik/github/source/rust_challenge/rust_book_cs_brown_edu/using-structs/target/debug/using-structs: /Users/cihatsalik/github/source/rust_challenge/rust_book_cs_brown_edu/using-structs/src/main.rs
